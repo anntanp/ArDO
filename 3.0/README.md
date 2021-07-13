@@ -46,4 +46,4 @@ This work has been supported by a public grant overseen by the Deutsche Forschun
 
 ## Updates
 
-**2021-02-21** The new version 2.0 has been released. The namespace has been changed and based on a permant identifier provided by w3id.org.
+**2021-02-21** The new version 2.0 has been released. The namespace has been changed and based on a permanent identifier provided by w3id.org.
